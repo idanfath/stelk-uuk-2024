@@ -1,0 +1,8 @@
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.smallFix {
+    @apply max-md:max-h-[500px] max-md:mt-[5rem]
+}

@@ -1,0 +1,22 @@
+:root {
+    --background: #f1f1f1;
+    --inverse: #131313;
+    --text: #131313;
+    --error: #ef3737;
+    --confirm: #30cd3b;
+    --grey: #b6b6b6;
+    --primary: #34d399;
+    --primary-dark: #27a074;
+    --primary-darker: #14533c;
+    --almost-background: #9b9b9b;
+}
+
+.dark {
+    --inverse: white;
+    --text: white;
+    --background: #131313;
+    --grey: #4b4b4b;
+    --almost-background: #131313;
+
+}
+

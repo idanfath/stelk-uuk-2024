@@ -1,0 +1,17 @@
+build my own vue plugin 
+good for global function or vars
+https://www.youtube.com/watch?v=ar1fJECxbyU&list=PLHIhzV3yZ5WbcqL0Mjqf6uJvr5aQ9ac-r
+
+! sass
+! animate css
+
+! make a hint feature (a box) that tracks user mouse when entering an element
+! it'll move the box to cursor and change the content into e.x. image alt
+
+! make a storage, if loading then idk
+! import my hover component
+
+! make a backend
+
+with the swal i made, make a comp for it or a custom vue plugin
+
